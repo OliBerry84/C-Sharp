@@ -1,0 +1,11 @@
+V:\C#\ForLoops\ForLoops\bin\Debug\netcoreapp3.0\ForLoops.exe
+V:\C#\ForLoops\ForLoops\bin\Debug\netcoreapp3.0\ForLoops.deps.json
+V:\C#\ForLoops\ForLoops\bin\Debug\netcoreapp3.0\ForLoops.runtimeconfig.json
+V:\C#\ForLoops\ForLoops\bin\Debug\netcoreapp3.0\ForLoops.runtimeconfig.dev.json
+V:\C#\ForLoops\ForLoops\bin\Debug\netcoreapp3.0\ForLoops.dll
+V:\C#\ForLoops\ForLoops\bin\Debug\netcoreapp3.0\ForLoops.pdb
+V:\C#\ForLoops\ForLoops\obj\Debug\netcoreapp3.0\ForLoops.csprojAssemblyReference.cache
+V:\C#\ForLoops\ForLoops\obj\Debug\netcoreapp3.0\ForLoops.AssemblyInfoInputs.cache
+V:\C#\ForLoops\ForLoops\obj\Debug\netcoreapp3.0\ForLoops.AssemblyInfo.cs
+V:\C#\ForLoops\ForLoops\obj\Debug\netcoreapp3.0\ForLoops.dll
+V:\C#\ForLoops\ForLoops\obj\Debug\netcoreapp3.0\ForLoops.pdb

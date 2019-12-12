@@ -1,0 +1,10 @@
+V:\C#\BreakContinue\BreakContinue\bin\Debug\netcoreapp3.0\BreakContinue.exe
+V:\C#\BreakContinue\BreakContinue\bin\Debug\netcoreapp3.0\BreakContinue.deps.json
+V:\C#\BreakContinue\BreakContinue\bin\Debug\netcoreapp3.0\BreakContinue.runtimeconfig.json
+V:\C#\BreakContinue\BreakContinue\bin\Debug\netcoreapp3.0\BreakContinue.runtimeconfig.dev.json
+V:\C#\BreakContinue\BreakContinue\bin\Debug\netcoreapp3.0\BreakContinue.dll
+V:\C#\BreakContinue\BreakContinue\bin\Debug\netcoreapp3.0\BreakContinue.pdb
+V:\C#\BreakContinue\BreakContinue\obj\Debug\netcoreapp3.0\BreakContinue.AssemblyInfoInputs.cache
+V:\C#\BreakContinue\BreakContinue\obj\Debug\netcoreapp3.0\BreakContinue.AssemblyInfo.cs
+V:\C#\BreakContinue\BreakContinue\obj\Debug\netcoreapp3.0\BreakContinue.dll
+V:\C#\BreakContinue\BreakContinue\obj\Debug\netcoreapp3.0\BreakContinue.pdb

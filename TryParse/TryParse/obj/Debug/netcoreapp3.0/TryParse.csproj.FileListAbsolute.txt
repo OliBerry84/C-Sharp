@@ -1,0 +1,11 @@
+V:\C#\TryParse\TryParse\bin\Debug\netcoreapp3.0\TryParse.exe
+V:\C#\TryParse\TryParse\bin\Debug\netcoreapp3.0\TryParse.deps.json
+V:\C#\TryParse\TryParse\bin\Debug\netcoreapp3.0\TryParse.runtimeconfig.json
+V:\C#\TryParse\TryParse\bin\Debug\netcoreapp3.0\TryParse.runtimeconfig.dev.json
+V:\C#\TryParse\TryParse\bin\Debug\netcoreapp3.0\TryParse.dll
+V:\C#\TryParse\TryParse\bin\Debug\netcoreapp3.0\TryParse.pdb
+V:\C#\TryParse\TryParse\obj\Debug\netcoreapp3.0\TryParse.csprojAssemblyReference.cache
+V:\C#\TryParse\TryParse\obj\Debug\netcoreapp3.0\TryParse.AssemblyInfoInputs.cache
+V:\C#\TryParse\TryParse\obj\Debug\netcoreapp3.0\TryParse.AssemblyInfo.cs
+V:\C#\TryParse\TryParse\obj\Debug\netcoreapp3.0\TryParse.dll
+V:\C#\TryParse\TryParse\obj\Debug\netcoreapp3.0\TryParse.pdb

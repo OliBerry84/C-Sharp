@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ParsingStringToInt/1.0.0": {
+        "runtime": {
+          "ParsingStringToInt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParsingStringToInt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

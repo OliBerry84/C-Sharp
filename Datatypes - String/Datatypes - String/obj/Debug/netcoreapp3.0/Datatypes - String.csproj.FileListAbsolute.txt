@@ -1,0 +1,11 @@
+V:\C#\Datatypes - String\Datatypes - String\bin\Debug\netcoreapp3.0\Datatypes - String.exe
+V:\C#\Datatypes - String\Datatypes - String\bin\Debug\netcoreapp3.0\Datatypes - String.deps.json
+V:\C#\Datatypes - String\Datatypes - String\bin\Debug\netcoreapp3.0\Datatypes - String.runtimeconfig.json
+V:\C#\Datatypes - String\Datatypes - String\bin\Debug\netcoreapp3.0\Datatypes - String.runtimeconfig.dev.json
+V:\C#\Datatypes - String\Datatypes - String\bin\Debug\netcoreapp3.0\Datatypes - String.dll
+V:\C#\Datatypes - String\Datatypes - String\bin\Debug\netcoreapp3.0\Datatypes - String.pdb
+V:\C#\Datatypes - String\Datatypes - String\obj\Debug\netcoreapp3.0\Datatypes - String.csprojAssemblyReference.cache
+V:\C#\Datatypes - String\Datatypes - String\obj\Debug\netcoreapp3.0\Datatypes - String.AssemblyInfoInputs.cache
+V:\C#\Datatypes - String\Datatypes - String\obj\Debug\netcoreapp3.0\Datatypes - String.AssemblyInfo.cs
+V:\C#\Datatypes - String\Datatypes - String\obj\Debug\netcoreapp3.0\Datatypes - String.dll
+V:\C#\Datatypes - String\Datatypes - String\obj\Debug\netcoreapp3.0\Datatypes - String.pdb

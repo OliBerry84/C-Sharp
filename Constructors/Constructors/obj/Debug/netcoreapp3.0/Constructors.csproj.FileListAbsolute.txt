@@ -1,0 +1,11 @@
+V:\C#\Constructors\Constructors\bin\Debug\netcoreapp3.0\Constructors.exe
+V:\C#\Constructors\Constructors\bin\Debug\netcoreapp3.0\Constructors.deps.json
+V:\C#\Constructors\Constructors\bin\Debug\netcoreapp3.0\Constructors.runtimeconfig.json
+V:\C#\Constructors\Constructors\bin\Debug\netcoreapp3.0\Constructors.runtimeconfig.dev.json
+V:\C#\Constructors\Constructors\bin\Debug\netcoreapp3.0\Constructors.dll
+V:\C#\Constructors\Constructors\bin\Debug\netcoreapp3.0\Constructors.pdb
+V:\C#\Constructors\Constructors\obj\Debug\netcoreapp3.0\Constructors.csprojAssemblyReference.cache
+V:\C#\Constructors\Constructors\obj\Debug\netcoreapp3.0\Constructors.AssemblyInfoInputs.cache
+V:\C#\Constructors\Constructors\obj\Debug\netcoreapp3.0\Constructors.AssemblyInfo.cs
+V:\C#\Constructors\Constructors\obj\Debug\netcoreapp3.0\Constructors.dll
+V:\C#\Constructors\Constructors\obj\Debug\netcoreapp3.0\Constructors.pdb

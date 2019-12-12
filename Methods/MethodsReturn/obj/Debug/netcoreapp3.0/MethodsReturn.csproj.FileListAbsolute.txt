@@ -1,0 +1,11 @@
+V:\C#\Methods\MethodsReturn\bin\Debug\netcoreapp3.0\MethodsReturn.exe
+V:\C#\Methods\MethodsReturn\bin\Debug\netcoreapp3.0\MethodsReturn.deps.json
+V:\C#\Methods\MethodsReturn\bin\Debug\netcoreapp3.0\MethodsReturn.runtimeconfig.json
+V:\C#\Methods\MethodsReturn\bin\Debug\netcoreapp3.0\MethodsReturn.runtimeconfig.dev.json
+V:\C#\Methods\MethodsReturn\bin\Debug\netcoreapp3.0\MethodsReturn.dll
+V:\C#\Methods\MethodsReturn\bin\Debug\netcoreapp3.0\MethodsReturn.pdb
+V:\C#\Methods\MethodsReturn\obj\Debug\netcoreapp3.0\MethodsReturn.csprojAssemblyReference.cache
+V:\C#\Methods\MethodsReturn\obj\Debug\netcoreapp3.0\MethodsReturn.AssemblyInfoInputs.cache
+V:\C#\Methods\MethodsReturn\obj\Debug\netcoreapp3.0\MethodsReturn.AssemblyInfo.cs
+V:\C#\Methods\MethodsReturn\obj\Debug\netcoreapp3.0\MethodsReturn.dll
+V:\C#\Methods\MethodsReturn\obj\Debug\netcoreapp3.0\MethodsReturn.pdb

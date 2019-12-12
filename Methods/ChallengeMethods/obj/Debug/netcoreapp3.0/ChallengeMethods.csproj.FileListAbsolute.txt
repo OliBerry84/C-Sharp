@@ -1,0 +1,11 @@
+V:\C#\Methods\ChallengeMethods\bin\Debug\netcoreapp3.0\ChallengeMethods.exe
+V:\C#\Methods\ChallengeMethods\bin\Debug\netcoreapp3.0\ChallengeMethods.deps.json
+V:\C#\Methods\ChallengeMethods\bin\Debug\netcoreapp3.0\ChallengeMethods.runtimeconfig.json
+V:\C#\Methods\ChallengeMethods\bin\Debug\netcoreapp3.0\ChallengeMethods.runtimeconfig.dev.json
+V:\C#\Methods\ChallengeMethods\bin\Debug\netcoreapp3.0\ChallengeMethods.dll
+V:\C#\Methods\ChallengeMethods\bin\Debug\netcoreapp3.0\ChallengeMethods.pdb
+V:\C#\Methods\ChallengeMethods\obj\Debug\netcoreapp3.0\ChallengeMethods.csprojAssemblyReference.cache
+V:\C#\Methods\ChallengeMethods\obj\Debug\netcoreapp3.0\ChallengeMethods.AssemblyInfoInputs.cache
+V:\C#\Methods\ChallengeMethods\obj\Debug\netcoreapp3.0\ChallengeMethods.AssemblyInfo.cs
+V:\C#\Methods\ChallengeMethods\obj\Debug\netcoreapp3.0\ChallengeMethods.dll
+V:\C#\Methods\ChallengeMethods\obj\Debug\netcoreapp3.0\ChallengeMethods.pdb

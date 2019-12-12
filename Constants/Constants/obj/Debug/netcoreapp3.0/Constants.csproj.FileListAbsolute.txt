@@ -1,0 +1,11 @@
+V:\C#\Constants\Constants\bin\Debug\netcoreapp3.0\Constants.exe
+V:\C#\Constants\Constants\bin\Debug\netcoreapp3.0\Constants.deps.json
+V:\C#\Constants\Constants\bin\Debug\netcoreapp3.0\Constants.runtimeconfig.json
+V:\C#\Constants\Constants\bin\Debug\netcoreapp3.0\Constants.runtimeconfig.dev.json
+V:\C#\Constants\Constants\bin\Debug\netcoreapp3.0\Constants.dll
+V:\C#\Constants\Constants\bin\Debug\netcoreapp3.0\Constants.pdb
+V:\C#\Constants\Constants\obj\Debug\netcoreapp3.0\Constants.csprojAssemblyReference.cache
+V:\C#\Constants\Constants\obj\Debug\netcoreapp3.0\Constants.AssemblyInfoInputs.cache
+V:\C#\Constants\Constants\obj\Debug\netcoreapp3.0\Constants.AssemblyInfo.cs
+V:\C#\Constants\Constants\obj\Debug\netcoreapp3.0\Constants.dll
+V:\C#\Constants\Constants\obj\Debug\netcoreapp3.0\Constants.pdb

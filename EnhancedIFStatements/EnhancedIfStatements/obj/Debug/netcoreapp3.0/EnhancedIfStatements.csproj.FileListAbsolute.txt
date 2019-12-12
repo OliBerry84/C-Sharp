@@ -1,0 +1,10 @@
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\bin\Debug\netcoreapp3.0\EnhancedIfStatements.exe
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\bin\Debug\netcoreapp3.0\EnhancedIfStatements.deps.json
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\bin\Debug\netcoreapp3.0\EnhancedIfStatements.runtimeconfig.json
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\bin\Debug\netcoreapp3.0\EnhancedIfStatements.runtimeconfig.dev.json
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\bin\Debug\netcoreapp3.0\EnhancedIfStatements.dll
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\bin\Debug\netcoreapp3.0\EnhancedIfStatements.pdb
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\obj\Debug\netcoreapp3.0\EnhancedIfStatements.AssemblyInfoInputs.cache
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\obj\Debug\netcoreapp3.0\EnhancedIfStatements.AssemblyInfo.cs
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\obj\Debug\netcoreapp3.0\EnhancedIfStatements.dll
+V:\C#\EnhancedIFStatements\EnhancedIfStatements\obj\Debug\netcoreapp3.0\EnhancedIfStatements.pdb

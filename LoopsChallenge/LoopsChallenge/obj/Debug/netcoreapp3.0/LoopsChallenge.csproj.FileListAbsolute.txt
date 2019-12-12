@@ -1,0 +1,10 @@
+V:\C#\LoopsChallenge\LoopsChallenge\bin\Debug\netcoreapp3.0\LoopsChallenge.exe
+V:\C#\LoopsChallenge\LoopsChallenge\bin\Debug\netcoreapp3.0\LoopsChallenge.deps.json
+V:\C#\LoopsChallenge\LoopsChallenge\bin\Debug\netcoreapp3.0\LoopsChallenge.runtimeconfig.json
+V:\C#\LoopsChallenge\LoopsChallenge\bin\Debug\netcoreapp3.0\LoopsChallenge.runtimeconfig.dev.json
+V:\C#\LoopsChallenge\LoopsChallenge\bin\Debug\netcoreapp3.0\LoopsChallenge.dll
+V:\C#\LoopsChallenge\LoopsChallenge\bin\Debug\netcoreapp3.0\LoopsChallenge.pdb
+V:\C#\LoopsChallenge\LoopsChallenge\obj\Debug\netcoreapp3.0\LoopsChallenge.AssemblyInfoInputs.cache
+V:\C#\LoopsChallenge\LoopsChallenge\obj\Debug\netcoreapp3.0\LoopsChallenge.AssemblyInfo.cs
+V:\C#\LoopsChallenge\LoopsChallenge\obj\Debug\netcoreapp3.0\LoopsChallenge.dll
+V:\C#\LoopsChallenge\LoopsChallenge\obj\Debug\netcoreapp3.0\LoopsChallenge.pdb

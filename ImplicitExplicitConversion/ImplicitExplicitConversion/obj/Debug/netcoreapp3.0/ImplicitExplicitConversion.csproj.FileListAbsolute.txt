@@ -1,0 +1,11 @@
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\netcoreapp3.0\ImplicitExplicitConversion.exe
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\netcoreapp3.0\ImplicitExplicitConversion.deps.json
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\netcoreapp3.0\ImplicitExplicitConversion.runtimeconfig.json
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\netcoreapp3.0\ImplicitExplicitConversion.runtimeconfig.dev.json
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\netcoreapp3.0\ImplicitExplicitConversion.dll
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\netcoreapp3.0\ImplicitExplicitConversion.pdb
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\obj\Debug\netcoreapp3.0\ImplicitExplicitConversion.csprojAssemblyReference.cache
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\obj\Debug\netcoreapp3.0\ImplicitExplicitConversion.AssemblyInfoInputs.cache
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\obj\Debug\netcoreapp3.0\ImplicitExplicitConversion.AssemblyInfo.cs
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\obj\Debug\netcoreapp3.0\ImplicitExplicitConversion.dll
+V:\C#\ImplicitExplicitConversion\ImplicitExplicitConversion\obj\Debug\netcoreapp3.0\ImplicitExplicitConversion.pdb

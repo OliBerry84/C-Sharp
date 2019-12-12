@@ -1,0 +1,11 @@
+V:\C#\Methods\MethodsVoid\bin\Debug\netcoreapp3.0\MethodsVoid.exe
+V:\C#\Methods\MethodsVoid\bin\Debug\netcoreapp3.0\MethodsVoid.deps.json
+V:\C#\Methods\MethodsVoid\bin\Debug\netcoreapp3.0\MethodsVoid.runtimeconfig.json
+V:\C#\Methods\MethodsVoid\bin\Debug\netcoreapp3.0\MethodsVoid.runtimeconfig.dev.json
+V:\C#\Methods\MethodsVoid\bin\Debug\netcoreapp3.0\MethodsVoid.dll
+V:\C#\Methods\MethodsVoid\bin\Debug\netcoreapp3.0\MethodsVoid.pdb
+V:\C#\Methods\MethodsVoid\obj\Debug\netcoreapp3.0\MethodsVoid.csprojAssemblyReference.cache
+V:\C#\Methods\MethodsVoid\obj\Debug\netcoreapp3.0\MethodsVoid.AssemblyInfoInputs.cache
+V:\C#\Methods\MethodsVoid\obj\Debug\netcoreapp3.0\MethodsVoid.AssemblyInfo.cs
+V:\C#\Methods\MethodsVoid\obj\Debug\netcoreapp3.0\MethodsVoid.dll
+V:\C#\Methods\MethodsVoid\obj\Debug\netcoreapp3.0\MethodsVoid.pdb

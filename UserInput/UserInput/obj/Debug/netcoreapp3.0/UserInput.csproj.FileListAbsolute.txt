@@ -1,0 +1,11 @@
+V:\C#\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.exe
+V:\C#\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.deps.json
+V:\C#\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.runtimeconfig.json
+V:\C#\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.runtimeconfig.dev.json
+V:\C#\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.dll
+V:\C#\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.pdb
+V:\C#\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.csprojAssemblyReference.cache
+V:\C#\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.AssemblyInfoInputs.cache
+V:\C#\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.AssemblyInfo.cs
+V:\C#\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.dll
+V:\C#\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.pdb

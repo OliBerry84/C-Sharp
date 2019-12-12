@@ -1,0 +1,11 @@
+V:\C#\NestedIf\NestedIf\bin\Debug\netcoreapp3.0\NestedIf.exe
+V:\C#\NestedIf\NestedIf\bin\Debug\netcoreapp3.0\NestedIf.deps.json
+V:\C#\NestedIf\NestedIf\bin\Debug\netcoreapp3.0\NestedIf.runtimeconfig.json
+V:\C#\NestedIf\NestedIf\bin\Debug\netcoreapp3.0\NestedIf.runtimeconfig.dev.json
+V:\C#\NestedIf\NestedIf\bin\Debug\netcoreapp3.0\NestedIf.dll
+V:\C#\NestedIf\NestedIf\bin\Debug\netcoreapp3.0\NestedIf.pdb
+V:\C#\NestedIf\NestedIf\obj\Debug\netcoreapp3.0\NestedIf.csprojAssemblyReference.cache
+V:\C#\NestedIf\NestedIf\obj\Debug\netcoreapp3.0\NestedIf.AssemblyInfoInputs.cache
+V:\C#\NestedIf\NestedIf\obj\Debug\netcoreapp3.0\NestedIf.AssemblyInfo.cs
+V:\C#\NestedIf\NestedIf\obj\Debug\netcoreapp3.0\NestedIf.dll
+V:\C#\NestedIf\NestedIf\obj\Debug\netcoreapp3.0\NestedIf.pdb

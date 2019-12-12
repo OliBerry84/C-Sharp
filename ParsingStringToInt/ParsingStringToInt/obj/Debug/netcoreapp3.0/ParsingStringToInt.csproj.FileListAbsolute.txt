@@ -1,0 +1,11 @@
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.0\ParsingStringToInt.exe
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.0\ParsingStringToInt.deps.json
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.0\ParsingStringToInt.runtimeconfig.json
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.0\ParsingStringToInt.runtimeconfig.dev.json
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.0\ParsingStringToInt.dll
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.0\ParsingStringToInt.pdb
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.0\ParsingStringToInt.csprojAssemblyReference.cache
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.0\ParsingStringToInt.AssemblyInfoInputs.cache
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.0\ParsingStringToInt.AssemblyInfo.cs
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.0\ParsingStringToInt.dll
+C:\Users\oliver berry\source\repos\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.0\ParsingStringToInt.pdb

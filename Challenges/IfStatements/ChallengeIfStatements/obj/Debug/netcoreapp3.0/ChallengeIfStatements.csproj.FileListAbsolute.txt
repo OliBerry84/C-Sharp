@@ -1,0 +1,10 @@
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\bin\Debug\netcoreapp3.0\ChallengeIfStatements.exe
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\bin\Debug\netcoreapp3.0\ChallengeIfStatements.deps.json
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\bin\Debug\netcoreapp3.0\ChallengeIfStatements.runtimeconfig.json
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\bin\Debug\netcoreapp3.0\ChallengeIfStatements.runtimeconfig.dev.json
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\bin\Debug\netcoreapp3.0\ChallengeIfStatements.dll
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\bin\Debug\netcoreapp3.0\ChallengeIfStatements.pdb
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\obj\Debug\netcoreapp3.0\ChallengeIfStatements.AssemblyInfoInputs.cache
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\obj\Debug\netcoreapp3.0\ChallengeIfStatements.AssemblyInfo.cs
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\obj\Debug\netcoreapp3.0\ChallengeIfStatements.dll
+V:\C#\Challenges\IfStatements\ChallengeIfStatements\obj\Debug\netcoreapp3.0\ChallengeIfStatements.pdb

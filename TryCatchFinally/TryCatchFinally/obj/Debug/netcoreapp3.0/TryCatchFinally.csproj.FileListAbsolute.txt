@@ -1,0 +1,11 @@
+V:\C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.0\TryCatchFinally.exe
+V:\C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.0\TryCatchFinally.deps.json
+V:\C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.0\TryCatchFinally.runtimeconfig.json
+V:\C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.0\TryCatchFinally.runtimeconfig.dev.json
+V:\C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.0\TryCatchFinally.dll
+V:\C#\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.0\TryCatchFinally.pdb
+V:\C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.0\TryCatchFinally.csprojAssemblyReference.cache
+V:\C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.0\TryCatchFinally.AssemblyInfoInputs.cache
+V:\C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.0\TryCatchFinally.AssemblyInfo.cs
+V:\C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.0\TryCatchFinally.dll
+V:\C#\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.0\TryCatchFinally.pdb

@@ -1,0 +1,10 @@
+V:\C#\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.0\DoWhileLoops.exe
+V:\C#\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.0\DoWhileLoops.deps.json
+V:\C#\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.0\DoWhileLoops.runtimeconfig.json
+V:\C#\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.0\DoWhileLoops.runtimeconfig.dev.json
+V:\C#\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.0\DoWhileLoops.dll
+V:\C#\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.0\DoWhileLoops.pdb
+V:\C#\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.0\DoWhileLoops.AssemblyInfoInputs.cache
+V:\C#\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.0\DoWhileLoops.AssemblyInfo.cs
+V:\C#\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.0\DoWhileLoops.dll
+V:\C#\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.0\DoWhileLoops.pdb

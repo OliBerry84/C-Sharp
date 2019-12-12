@@ -1,0 +1,10 @@
+V:\C#\SwitchCase\Switch\bin\Debug\netcoreapp3.0\Switch.exe
+V:\C#\SwitchCase\Switch\bin\Debug\netcoreapp3.0\Switch.deps.json
+V:\C#\SwitchCase\Switch\bin\Debug\netcoreapp3.0\Switch.runtimeconfig.json
+V:\C#\SwitchCase\Switch\bin\Debug\netcoreapp3.0\Switch.runtimeconfig.dev.json
+V:\C#\SwitchCase\Switch\bin\Debug\netcoreapp3.0\Switch.dll
+V:\C#\SwitchCase\Switch\bin\Debug\netcoreapp3.0\Switch.pdb
+V:\C#\SwitchCase\Switch\obj\Debug\netcoreapp3.0\Switch.AssemblyInfoInputs.cache
+V:\C#\SwitchCase\Switch\obj\Debug\netcoreapp3.0\Switch.AssemblyInfo.cs
+V:\C#\SwitchCase\Switch\obj\Debug\netcoreapp3.0\Switch.dll
+V:\C#\SwitchCase\Switch\obj\Debug\netcoreapp3.0\Switch.pdb

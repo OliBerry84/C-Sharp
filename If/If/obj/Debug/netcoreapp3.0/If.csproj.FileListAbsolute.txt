@@ -1,0 +1,11 @@
+V:\C#\If\If\bin\Debug\netcoreapp3.0\If.exe
+V:\C#\If\If\bin\Debug\netcoreapp3.0\If.deps.json
+V:\C#\If\If\bin\Debug\netcoreapp3.0\If.runtimeconfig.json
+V:\C#\If\If\bin\Debug\netcoreapp3.0\If.runtimeconfig.dev.json
+V:\C#\If\If\bin\Debug\netcoreapp3.0\If.dll
+V:\C#\If\If\bin\Debug\netcoreapp3.0\If.pdb
+V:\C#\If\If\obj\Debug\netcoreapp3.0\If.csprojAssemblyReference.cache
+V:\C#\If\If\obj\Debug\netcoreapp3.0\If.AssemblyInfoInputs.cache
+V:\C#\If\If\obj\Debug\netcoreapp3.0\If.AssemblyInfo.cs
+V:\C#\If\If\obj\Debug\netcoreapp3.0\If.dll
+V:\C#\If\If\obj\Debug\netcoreapp3.0\If.pdb

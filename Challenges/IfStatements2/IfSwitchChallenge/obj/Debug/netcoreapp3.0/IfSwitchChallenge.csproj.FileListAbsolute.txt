@@ -1,0 +1,10 @@
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\bin\Debug\netcoreapp3.0\IfSwitchChallenge.exe
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\bin\Debug\netcoreapp3.0\IfSwitchChallenge.deps.json
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\bin\Debug\netcoreapp3.0\IfSwitchChallenge.runtimeconfig.json
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\bin\Debug\netcoreapp3.0\IfSwitchChallenge.runtimeconfig.dev.json
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\bin\Debug\netcoreapp3.0\IfSwitchChallenge.dll
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\bin\Debug\netcoreapp3.0\IfSwitchChallenge.pdb
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\obj\Debug\netcoreapp3.0\IfSwitchChallenge.AssemblyInfoInputs.cache
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\obj\Debug\netcoreapp3.0\IfSwitchChallenge.AssemblyInfo.cs
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\obj\Debug\netcoreapp3.0\IfSwitchChallenge.dll
+V:\C#\Challenges\IfStatements2\IfSwitchChallenge\obj\Debug\netcoreapp3.0\IfSwitchChallenge.pdb

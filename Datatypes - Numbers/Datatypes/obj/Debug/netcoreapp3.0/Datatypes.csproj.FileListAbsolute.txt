@@ -1,0 +1,11 @@
+V:\C#\Datatypes\Datatypes\bin\Debug\netcoreapp3.0\Datatypes.exe
+V:\C#\Datatypes\Datatypes\bin\Debug\netcoreapp3.0\Datatypes.deps.json
+V:\C#\Datatypes\Datatypes\bin\Debug\netcoreapp3.0\Datatypes.runtimeconfig.json
+V:\C#\Datatypes\Datatypes\bin\Debug\netcoreapp3.0\Datatypes.runtimeconfig.dev.json
+V:\C#\Datatypes\Datatypes\bin\Debug\netcoreapp3.0\Datatypes.dll
+V:\C#\Datatypes\Datatypes\bin\Debug\netcoreapp3.0\Datatypes.pdb
+V:\C#\Datatypes\Datatypes\obj\Debug\netcoreapp3.0\Datatypes.csprojAssemblyReference.cache
+V:\C#\Datatypes\Datatypes\obj\Debug\netcoreapp3.0\Datatypes.AssemblyInfoInputs.cache
+V:\C#\Datatypes\Datatypes\obj\Debug\netcoreapp3.0\Datatypes.AssemblyInfo.cs
+V:\C#\Datatypes\Datatypes\obj\Debug\netcoreapp3.0\Datatypes.dll
+V:\C#\Datatypes\Datatypes\obj\Debug\netcoreapp3.0\Datatypes.pdb
