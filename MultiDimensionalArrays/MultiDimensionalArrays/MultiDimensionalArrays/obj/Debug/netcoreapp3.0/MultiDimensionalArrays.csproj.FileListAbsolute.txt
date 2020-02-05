@@ -1,0 +1,11 @@
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.0\MultiDimensionalArrays.exe
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.0\MultiDimensionalArrays.deps.json
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.0\MultiDimensionalArrays.runtimeconfig.json
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.0\MultiDimensionalArrays.runtimeconfig.dev.json
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.0\MultiDimensionalArrays.dll
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.0\MultiDimensionalArrays.pdb
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.0\MultiDimensionalArrays.csprojAssemblyReference.cache
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.0\MultiDimensionalArrays.AssemblyInfoInputs.cache
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.0\MultiDimensionalArrays.AssemblyInfo.cs
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.0\MultiDimensionalArrays.dll
+C:\C# Udemy\MultiDimensionalArrays\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.0\MultiDimensionalArrays.pdb
